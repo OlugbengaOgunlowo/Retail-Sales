@@ -10,7 +10,7 @@ The dataset contains 30 retail sales transactions covering January to March 2026
 
 ## Dashboard Preview
 
-![Sales Dashboard](Screenshot2 2026-09-17 124420.png)
+![Sales Dashboard](sales.png)
 
 DATASET COLUMNS
 1. Order_ID – Unique identification number for each order.
